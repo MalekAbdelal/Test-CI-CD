@@ -5,4 +5,5 @@ def hello_world():
 def welcome():
     print("Welcome")
 
+
 print(welcome())
